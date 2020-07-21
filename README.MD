@@ -13,5 +13,7 @@
 #### Ссылки:
 
 https://www.electronjs.org/
+
 https://github.com/dbashford/textract
+
 https://github.com/morungos/node-word-extractor
